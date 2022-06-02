@@ -1,5 +1,5 @@
 tensorflow-gpu==2.8.0rc0
-opencv-python==4.1.1.26
+opencv-python==4.4.0.40
 lxml
 tqdm
 absl-py
